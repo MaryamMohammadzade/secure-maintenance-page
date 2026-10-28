@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Secure Maintenance Page\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Block for non-admins while in maintenance mode (recommended)"
+msgstr "مسدود کردن برای کاربران غیرمدیر در حالت تعمیر (پیشنهادی)"
+
+msgid "Current file:"
+msgstr "فایل فعلی:"
+
+msgid "Delete the file?"
+msgstr "فایل حذف شود؟"
+
+msgid "Delete uploaded file"
+msgstr "حذف فایل آپلود شده"
+
+msgid "Enable maintenance mode"
+msgstr "فعال‌سازی حالت تعمیر"
+
+msgid "Estimated downtime (hours)"
+msgstr "زمان تقریبی تعمیر (ساعت)"
+
+msgid "If no file has been uploaded, Template 1 in the site language is shown."
+msgstr "اگر فایلی آپلود نشده باشد، قالب پیش‌فرض ۱ نمایش داده می‌شود."
+
+msgid "Logged-in administrators see the normal site; everyone else sees the maintenance page with a 503 status."
+msgstr "مدیران وارد شده سایت را عادی می‌بینند؛ بقیه صفحه‌ی تعمیر را با کد 503 می‌بینند."
+
+msgid "Maintenance Mode"
+msgstr "حالت تعمیر"
+
+msgid "Maintenance mode is active."
+msgstr "حالت تعمیر فعال است."
+
+msgid "Maintenance mode on"
+msgstr "حالت تعمیر فعال"
+
+msgid "No file was selected."
+msgstr "هیچ فایلی انتخاب نشده است."
+
+msgid "Note: unsafe parts of the file (such as scripts and forms) were removed during sanitization. Use the preview to check the result."
+msgstr "توجه: بخش‌های ناامن فایل (مثل اسکریپت‌ها و فرم‌ها) هنگام پاکسازی حذف شدند. از پیش‌نمایش برای بررسی استفاده کنید."
+
+msgid "Nothing was left after sanitization."
+msgstr "پس از پاکسازی امنیتی، محتوایی باقی نماند."
+
+msgid "Only .html and .htm files are accepted."
+msgstr "فقط فایل‌های ‎.html و ‎.htm پذیرفته می‌شوند."
+
+msgid "Only .html or .htm, up to %s. Scripts (JavaScript), forms, iframes and on* event handlers are removed for security. CSS (inline or linked over https) and images are allowed. You can use {{site_name}} and {{year}} in the text."
+msgstr "فقط ‎.html یا ‎.htm تا حداکثر %s. اسکریپت‌ها (JavaScript)، فرم‌ها، iframe و رویدادهای on* به دلایل امنیتی حذف می‌شوند. CSS (درون فایل یا لینک https) و تصاویر مجاز است. می‌توانید از {{site_name}} و {{year}} در متن استفاده کنید."
+
+msgid "Page to show"
+msgstr "صفحه‌ی نمایشی"
+
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+msgid "REST API and XML-RPC"
+msgstr "REST API و XML-RPC"
+
+msgid "Replace file"
+msgstr "جایگزینی فایل"
+
+msgid "Save settings"
+msgstr "ذخیره تنظیمات"
+
+msgid "Sent to search engines in the Retry-After header so SEO is not harmed."
+msgstr "در هدر Retry-After به موتورهای جستجو اعلام می‌شود تا سئو آسیب نبیند."
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Template 1: Light (English)"
+msgstr "قالب ۱: روشن (انگلیسی)"
+
+msgid "Template 1: Light (Persian)"
+msgstr "قالب ۱: روشن (فارسی)"
+
+msgid "Template 2: Dark (English)"
+msgstr "قالب ۲: تیره (انگلیسی)"
+
+msgid "Template 2: Dark (Persian)"
+msgstr "قالب ۲: تیره (فارسی)"
+
+msgid "The HTML file could not be parsed."
+msgstr "فایل HTML قابل پردازش نیست."
+
+msgid "The PHP DOM extension is not enabled on this server."
+msgstr "افزونه‌ی PHP به نام DOM روی سرور فعال نیست."
+
+msgid "The file content is invalid (not UTF-8, binary data, or server-side code)."
+msgstr "محتوای فایل نامعتبر است (کدگذاری غیر UTF-8، داده‌ی باینری یا کد سمت سرور)."
+
+msgid "The file could not be uploaded."
+msgstr "خطا در آپلود فایل."
+
+msgid "The file is empty."
+msgstr "فایل خالی است."
+
+msgid "The file is larger than the allowed size."
+msgstr "حجم فایل بیش از حد مجاز است."
+
+msgid "The file was uploaded, sanitized and saved."
+msgstr "فایل با موفقیت آپلود، پاکسازی امنیتی و ذخیره شد."
+
+msgid "The site is under maintenance."
+msgstr "سایت در حال تعمیر است."
+
+msgid "The uploaded file was deleted."
+msgstr "فایل آپلود شده حذف شد."
+
+msgid "Upload a custom HTML file"
+msgstr "آپلود فایل HTML اختصاصی"
+
+msgid "Upload file"
+msgstr "آپلود فایل"
+
+msgid "Uploaded HTML file"
+msgstr "فایل HTML آپلود شده"
+
+msgid "Visitors are seeing the maintenance page."
+msgstr "بازدیدکنندگان صفحه‌ی تعمیر را می‌بینند."
+
+msgid "You are not allowed to do this."
+msgstr "شما اجازه‌ی این کار را ندارید."
+

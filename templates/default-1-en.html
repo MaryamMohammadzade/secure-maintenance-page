@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Under maintenance | {{site_name}}</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:#f6f7fb;color:#1f2937;display:flex;align-items:center;justify-content:center;padding:24px;line-height:1.9}
+  .card{background:#fff;max-width:560px;width:100%;border-radius:20px;padding:48px 36px;text-align:center;box-shadow:0 10px 40px rgba(31,41,55,.08)}
+  .icon{width:84px;height:84px;margin:0 auto 24px;border-radius:50%;background:#eef2ff;display:flex;align-items:center;justify-content:center;font-size:42px}
+  h1{font-size:26px;margin-bottom:12px;color:#111827}
+  p{color:#4b5563;font-size:16px}
+  .bar{height:6px;background:#e5e7eb;border-radius:6px;overflow:hidden;margin:32px 0 16px}
+  .bar span{display:block;height:100%;width:40%;background:#6366f1;border-radius:6px;animation:load 1.8s ease-in-out infinite}
+  @keyframes load{0%{transform:translateX(-160%)}100%{transform:translateX(260%)}}
+  footer{margin-top:24px;font-size:13px;color:#9ca3af}
+</style>
+</head>
+<body>
+  <main class="card">
+    <div class="icon" aria-hidden="true">🛠️</div>
+    <h1>We’ll be back soon</h1>
+    <p>We’re making some updates and improvements to give you a better experience. We’ll be back shortly. Thank you for your patience.</p>
+    <div class="bar" aria-hidden="true"><span></span></div>
+    <footer>© {{year}} {{site_name}}</footer>
+  </main>
+</body>
+</html>
